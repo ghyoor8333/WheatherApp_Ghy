@@ -1,0 +1,37 @@
+body{
+    /* background: rgb(179, 248, 76); */
+    font-size: 20px;
+    font-family:serif;
+}
+.lightTheme{
+    background-color: white;
+    color: black
+}
+.DarkTheme{
+    background-color: black;
+    color: white
+}
+.box{
+    /* background-color: aquamarine; */
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 10px;
+    padding: 20px;
+}
+.input{
+    padding: 30px;
+}
+.inputFilled{
+    width: 80%;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+.btn{
+   padding: 10px;
+   font-size: 16px;
+   border-radius: 8px;
+}
